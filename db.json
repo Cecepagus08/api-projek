@@ -1,0 +1,46 @@
+{
+    "postingan": [
+        {
+            "id": 1,
+            "nama": "weather web",
+            "deskripsi": "a website to check the weather in an area directly",
+            "gambar": "assets/weather-app.jpg",
+            "link": "https://weather-app-nine-blush.vercel.app/"
+        },
+        {
+            "id": 2,
+            "nama": "To-Do-List",
+            "deskripsi": "display only, the entered list will disappear if the website is reloaded",
+            "gambar": "assets/todolist.png",
+            "link": "https://todolist-io-eight.vercel.app/"
+        },
+        {
+            "id": 3,
+            "nama": "Hex Generate",
+            "deskripsi": "hex generate allows you to get random hex numbers that you can use.",
+            "gambar": "assets/hex-generate.jpg",
+            "link": "https://hex-generate.vercel.app/"
+        },
+        {
+            "id": 4,
+            "nama": "Qr code maker",
+            "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "gambar": "assets/qrCode.jpg",
+            "link": "#"
+        },
+        {
+            "id": 5,
+            "nama": "Card title",
+            "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "gambar": "assets/ageCalkulator.jpg",
+            "link": "#"
+        },
+        {
+            "id": 6,
+            "nama": "Teka-Teki MOS mpls",
+            "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "gambar": "assets/mpls.jpg",
+            "link": "#"
+        }
+    ]
+}
