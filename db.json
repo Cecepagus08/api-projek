@@ -1,46 +1,100 @@
+// {
+//     "postingan": [
+//         {
+//             "id": 1,
+//             "nama": "weather web",
+//             "deskripsi": "A website to check the weather in an area directly.",
+//             "gambar": "assets/weather-app.jpg",
+//             "bahasa": ["HTML", "CSS", "JavaScript"],
+//             "link": "https://weather-app-nine-blush.vercel.app/"
+//         },
+//         {
+//             "id": 2,
+//             "nama": "To-Do-List",
+//             "deskripsi": "Display only, the entered list will disappear if the website is reloaded.",
+//             "gambar": "assets/todolist.png",
+//             "bahasa": ["HTML", "CSS", "JavaScript"],
+//             "link": "https://todolist-io-eight.vercel.app/"
+//         },
+//         {
+//             "id": 3,
+//             "nama": "Hex Generate",
+//             "deskripsi": "Hex generate allows you to get random hex numbers that you can use.",
+//             "gambar": "assets/hex-generate.jpg",
+//             "bahasa": ["HTML", "CSS", "JavaScript"],
+//             "link": "https://hex-generate.vercel.app/"
+//         },
+//         {
+//             "id": 4,
+//             "nama": "Qr Code Maker",
+//             "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+//             "gambar": "assets/qrCode.jpg",
+//             "bahasa": ["HTML", "CSS", "JavaScript"],
+//             "link": "#"
+//         },
+//         {
+//             "id": 5,
+//             "nama": "Card Title",
+//             "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+//             "gambar": "assets/ageCalkulator.jpg",
+//             "bahasa": ["HTML", "CSS", "JavaScript"],
+//             "link": "#"
+//         },
+//         {
+//             "id": 6,
+//             "nama": "Teka-Teki MOS MPLS",
+//             "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+//             "gambar": "assets/mpls.jpg",
+//             "bahasa": ["HTML", "CSS", "JavaScript"],
+//             "link": "#"
+//         }
+//     ],
+//     "teknologi": [
+//         {
+//             "id": 1,
+//             "icon": ,
+//             "nama": "HTML"
+//         },
+//         {
+//             "id": 2,
+//             "icon": ,
+//             "nama": "CSS"
+//         },
+//         {
+//             "id": 3,
+//             "icon": ,
+//             "nama": "JavaScript"
+//         },
+//         {
+//             "id": 4,
+//             "icon": 
+//             "nama": "React JS"
+//         }
+//     ]
+// }
+// 
 {
     "postingan": [
         {
             "id": 1,
-            "nama": "weather web",
-            "deskripsi": "a website to check the weather in an area directly",
+            "nama": "Weather Web",
+            "deskripsi": "A website to check the weather in an area directly.",
             "gambar": "assets/weather-app.jpg",
+            "bahasaPemrograman": [
+                {
+                    "icon": "https://i.ibb.co/9trf1pK/20240921-112250.png",
+                    "alt": "HTML Icon"
+                },
+                {
+                    "icon": "https://i.ibb.co/7nLJKp9/20240921-112848.png",
+                    "alt": "CSS Icon"
+                },
+                {
+                    "icon": "https://i.ibb.co/cTCp8MP/20240921-112737.png",
+                    "alt": "JavaScript Icon"
+                }
+            ],
             "link": "https://weather-app-nine-blush.vercel.app/"
-        },
-        {
-            "id": 2,
-            "nama": "To-Do-List",
-            "deskripsi": "display only, the entered list will disappear if the website is reloaded",
-            "gambar": "assets/todolist.png",
-            "link": "https://todolist-io-eight.vercel.app/"
-        },
-        {
-            "id": 3,
-            "nama": "Hex Generate",
-            "deskripsi": "hex generate allows you to get random hex numbers that you can use.",
-            "gambar": "assets/hex-generate.jpg",
-            "link": "https://hex-generate.vercel.app/"
-        },
-        {
-            "id": 4,
-            "nama": "Qr code maker",
-            "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
-            "gambar": "assets/qrCode.jpg",
-            "link": "#"
-        },
-        {
-            "id": 5,
-            "nama": "Card title",
-            "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
-            "gambar": "assets/ageCalkulator.jpg",
-            "link": "#"
-        },
-        {
-            "id": 6,
-            "nama": "Teka-Teki MOS mpls",
-            "deskripsi": "Some quick example text to build on the card title and make up the bulk of the card's content.",
-            "gambar": "assets/mpls.jpg",
-            "link": "#"
         }
     ]
 }
